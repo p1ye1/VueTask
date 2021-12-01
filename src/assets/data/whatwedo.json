@@ -1,32 +1,22 @@
 [
     {
-        "TechName":"Angular",
-        "image":"angular.svg",
-        "link":"https://angular.io/"
+        "TechName":"Apple",
+        "image":"apple.png",
+        "link":"https://developer.apple.com/augmented-reality/"
     },
     {
-        "TechName":"Google Cloud Platform",
-        "image":"gcp.svg",
-        "link":"https://cloud.google.com/"
+        "TechName":"Google",
+        "image":"google.png",
+        "link":"https://developers.google.com/ar"
     },
     {
-        "TechName":"Android",
-        "image":"android.svg",
-        "link":"https://www.android.com/"
+        "TechName":"Meta",
+        "image":"meta.png",
+        "link":"https://about.facebook.com/ltam/meta/"
     },
     {
-        "TechName":"Actions On Google",
-        "image":"aog.png",
-        "link":"https://developers.google.com/actions/"
-    },
-    {
-        "TechName":"Firebase",
-        "image":"firebase.svg",
-        "link":"https://firebase.google.com/"
-    },
-    {
-        "TechName":"TensorFlow",
-        "image":"tf.svg",
-        "link":"https://www.tensorflow.org/"
+        "TechName":"Microsoft",
+        "image":"microsoft.png",
+        "link":"https://www.microsoft.com/es-mx/hololens/developers"
     }
 ]

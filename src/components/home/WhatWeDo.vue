@@ -2,12 +2,14 @@
   <v-container fluid>
     <v-row align="center" justify="center">
       <v-col cols="12" md="3" lg="3" sm="4" class>
-        <p class="google-font mb-0" style="font-size:150%">¿Qué son los GDGs?</p>
+        <p class="google-font mb-0" style="font-size:150%">¡Construye tu realidad!</p>
         <p
           class="google-font mt-0"
           style="font-size:95%"
-        >Los Google Developer Groups (GDGs) son para desarrolladores interesados en la tecnología para desarrolladores de Google.</p>
-        <p class="google-font" style="font-size:95%">Acerca de Google technologies</p>
+        >La realidad aumentada mejora las experiencias al agregar componentes virtuales como imágenes digitales,
+         gráficos o sensaciones como una nueva capa de interacción con el mundo real. En contraste, la realidad 
+         virtual crea su propio mundo, que está completamente generado e impulsado por ordenador.</p>
+        <p class="google-font" style="font-size:95%">Acerca de VR & AR technologies.</p>
         <span v-for="(item,i) in whatwedodata" :key="i">
           <v-tooltip bottom>
             <template v-slot:activator="{ on }">
@@ -23,6 +25,7 @@
       <v-col cols="12" md="9" lg="9" sm="8">
         <v-container fluid>
           <v-row>
+            
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
               <v-icon large style="font-size:300%">mdi-comment</v-icon>
               <p class="google-font mt-2" style="font-size:130%">Foros</p>
@@ -31,6 +34,7 @@
                 style="font-size:95%"
               >Manténgase informado de las últimas noticias y lanzamientos</p>
             </v-col>
+
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
               <v-icon large style="font-size:300%">mdi-code-tags</v-icon>
               <p class="google-font mt-2" style="font-size:130%">Codelabs</p>
@@ -39,6 +43,7 @@
                 style="font-size:95%"
               >Pongáse manos a la obra con la experiencia guiada por la comunidad de miembros</p>
             </v-col>
+
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
               <v-icon large style="font-size:300%">mdi-school</v-icon>
               <p class="google-font mt-2" style="font-size:130%">Campus Roadshows</p>
@@ -47,6 +52,7 @@
                 style="font-size:95%"
               >Comparte tus conocimientos en diferentes compañías, colegios y universidades</p>
             </v-col>
+
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
               <v-icon large style="font-size:300%">mdi-chart-bubble</v-icon>
               <p class="google-font mt-2" style="font-size:130%">Live Viewing Parties</p>
@@ -55,6 +61,7 @@
                 style="font-size:95%"
               >Comparte tus conocimientos en diferentes compañías, colegios y universidades (Online)</p>
             </v-col>
+
           </v-row>
         </v-container>
       </v-col>
