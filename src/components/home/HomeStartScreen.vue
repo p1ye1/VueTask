@@ -26,7 +26,7 @@
           </b>
         </p>
         <p class="google-font mt-0 mb-0" style="font-size:150%">¿Cuál es la diferencia?</p>
-        <p class="google-font" style="font-size:100%;color:#000000"> Mientras que la <strong style="font-size:100%;color:#00BD2C">Realidad Virtual</strong> permite crear un mundo virtual desde cero con todo lo que queramos, pero un mundo fantástico. 
+        <p class="google-font mb-1" style="font-size:100%;color:#9e9e9e"> Mientras que la <strong style="font-size:100%;color:#00BD2C">Realidad Virtual</strong> permite crear un mundo virtual desde cero con todo lo que queramos, pero un mundo fantástico. 
         <br>Lo que hace la <strong style="font-size:100%;color:#00BD2C">Realidad Aumentada</strong> es agregar elementos virtuales (información adicional en forma de gráficos o imágenes) a nuestro entorno real.</p>
         <p class="google-font" style="font-size:100%;color:#9e9e9e">
           <span>

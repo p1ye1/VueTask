@@ -28,29 +28,31 @@
             
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
               <v-icon large style="font-size:300%">mdi-comment</v-icon>
-              <p class="google-font mt-2" style="font-size:130%">Foros</p>
+              <p class="google-font mt-2" style="font-size:130%">ARKit</p>
               <p
                 class="google-font"
                 style="font-size:95%"
-              >Manténgase informado de las últimas noticias y lanzamientos</p>
+              >Las innovadoras plataformas ARKit y RealityKit desarrollan y crean 
+              experiencias de realidad aumentada para el iPhone, el iPad y el iPod touch</p>
             </v-col>
 
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
               <v-icon large style="font-size:300%">mdi-code-tags</v-icon>
-              <p class="google-font mt-2" style="font-size:130%">Codelabs</p>
+              <p class="google-font mt-2" style="font-size:130%">AR Core</p>
               <p
                 class="google-font"
                 style="font-size:95%"
-              >Pongáse manos a la obra con la experiencia guiada por la comunidad de miembros</p>
+              >Con ARCore, cree nuevas experiencias de realidad aumentada
+              que combinen a la perfección los mundos digital y físico</p>
             </v-col>
 
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
               <v-icon large style="font-size:300%">mdi-school</v-icon>
-              <p class="google-font mt-2" style="font-size:130%">Campus Roadshows</p>
+              <p class="google-font mt-2" style="font-size:130%">Oculus</p>
               <p
                 class="google-font"
                 style="font-size:95%"
-              >Comparte tus conocimientos en diferentes compañías, colegios y universidades</p>
+              >Ofrece al usuario experiencias de realidad virtual, aumentada y mixta que funcionen bien</p>
             </v-col>
 
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
