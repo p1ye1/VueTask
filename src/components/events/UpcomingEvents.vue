@@ -12,7 +12,7 @@
       style="background-position:right"
     >
       <v-col cols="12" md="12" lg="12" sm="12" class>
-        <p class="google-font mb-0" style="font-size:150%;color: #1a73e8;">Upcoming Events</p>
+        <p class="google-font mb-0" style="font-size:150%;color: #9e9e9e;">Realidad <stong class="google-font mb-0" style="font-size:100%;color: #00BD2C">Mixta</stong></p>
         <p
           class="google-font mt-0"
           style="font-size:95%"

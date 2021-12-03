@@ -4,15 +4,17 @@
             <v-col cols="12" md="10" lg="10" sm="12" class="text-center mb-0" >
                 <p class="google-font mb-1" style="font-weight: 350;font-size:180%">
                     <b>
-                        Our
-                        <span style="color: #1a73e8;">Events</span> 
+                        Mejorando
+                        <span style="color: #00BD2C;">Experiencias</span> 
                         &
-                        <span style="color: #1a73e8;">Meetups</span> 
+                        <span style="color: #00BD2C;">Estilo de Vida</span> 
                     </b> 
                 </p>
                 
                 <!-- <p class="google-font mb-0" style="font-size:180%">Our Events & Meetups</p> -->
-                <p class="google-font mt-0" style="font-size:95%">At sessions that span from the technical to the visionary, let’s celebrate and discover what the technologies can enable: how product innovation, open source, and ML and AI can propel enterprises forward and solve the big problems that impact all of us.</p>
+                <p class="google-font mt-0" style="font-size:95%">Algunos proyectos de realidad ya sea virtual<strong style="color: #00BD2C;"> / </strong>aumentada<strong style="color: #00BD2C;"> / </strong><a href="/events" target="_blank" style="color: #00BD2C;">mixta</a> son ambiciosas y mejoran el estilo de vida implicando también la calidad de vida,
+                 como los proyectos que ayudan a tratar el autismo (CicerOn, Proyecto Lancelot) y otros que precervan nuestros patrimonios históricos (Monumenta Salmanticae, Museo Arqueológico Nacional, RV aplicada al turismo)
+                 educación inmersiva.</p>
                 <router-link
                     to="/events"
                     text
