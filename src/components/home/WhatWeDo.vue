@@ -27,7 +27,7 @@
           <v-row>
             
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
-              <v-icon large style="font-size:300%">mdi-comment</v-icon>
+              <v-icon large style="font-size:300%">mdi-desktop-mac, mdi-cellphone-iphone</v-icon>
               <p class="google-font mt-2" style="font-size:130%">ARKit</p>
               <p
                 class="google-font"
@@ -37,7 +37,7 @@
             </v-col>
 
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
-              <v-icon large style="font-size:300%">mdi-code-tags</v-icon>
+              <v-icon large style="font-size:300%">mdi-cellphone-link</v-icon>
               <p class="google-font mt-2" style="font-size:130%">AR Core</p>
               <p
                 class="google-font"
@@ -47,7 +47,7 @@
             </v-col>
 
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
-              <v-icon large style="font-size:300%">mdi-school</v-icon>
+              <v-icon large style="font-size:300%">mdi-google-cardboard</v-icon>
               <p class="google-font mt-2" style="font-size:130%">Oculus</p>
               <p
                 class="google-font"
@@ -56,8 +56,8 @@
             </v-col>
 
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
-              <v-icon large style="font-size:300%">mdi-chart-bubble</v-icon>
-              <p class="google-font mt-2" style="font-size:130%">Live Viewing Parties</p>
+              <v-icon large style="font-size:300%">mdi-hololens</v-icon>
+              <p class="google-font mt-2" style="font-size:130%">Hololens</p>
               <p
                 class="google-font"
                 style="font-size:95%"

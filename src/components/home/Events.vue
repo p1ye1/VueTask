@@ -3,6 +3,7 @@
         <v-row align="center" justify="center">
             <v-col cols="12" md="10" lg="10" sm="12" class="text-center mb-0" >
                 <p class="google-font mb-1" style="font-weight: 350;font-size:180%">
+
                     <b>
                         Mejorando
                         <span style="color: #00BD2C;">Experiencias</span> 
@@ -11,17 +12,16 @@
                     </b> 
                 </p>
                 
-                <!-- <p class="google-font mb-0" style="font-size:180%">Our Events & Meetups</p> -->
-                <p class="google-font mt-0" style="font-size:95%">Algunos proyectos de realidad ya sea virtual<strong style="color: #00BD2C;"> / </strong>aumentada<strong style="color: #00BD2C;"> / </strong><a href="/events" target="_blank" style="color: #00BD2C;">mixta</a> son ambiciosas y mejoran el estilo de vida implicando también la calidad de vida,
-                 como los proyectos que ayudan a tratar el autismo (CicerOn, Proyecto Lancelot) y otros que precervan nuestros patrimonios históricos (Monumenta Salmanticae, Museo Arqueológico Nacional, RV aplicada al turismo)
-                 educación inmersiva.</p>
+                <p class="google-font mt-0" style="font-size:95%">Algunos proyectos de realidad ya sea <strong style="color: #00BD2C;"> ( </strong>virtual<strong style="color: #00BD2C;"> / </strong>aumentada<strong style="color: #00BD2C;"> / </strong>mixta <strong style="color: #00BD2C;"> ) </strong> son ambiciosas y mejoran el estilo de vida implicando también la calidad de vida,
+                 como los proyectos que ayudan a tratar el autismo (CicerOn, Proyecto Lancelot) y otros que precervan nuestros patrimonios históricos (Monumenta Salmanticae, Museo Arqueológico Nacional, RV aplicada al turismo),
+                 educación inmersiva (como InmersArte y Léeme VR), etc.</p>
                 <router-link
                     to="/events"
                     text
                     color="#4C4A78"
                     class="ma-0 google-font mb-0"
                     style="border-radius:5px;text-transform: capitalize;text-decoration:none;color:#4C4A78"
-                >See More</router-link>
+                >Realidad Mixta</router-link>
             </v-col>
             <v-col cols="12" md="12" lg="12" sm="12" class="mt-0 px-0">
                <v-container fluid class="px-2 py-0">
@@ -59,6 +59,7 @@
         </v-row>
     </v-container>
 </template>
+
 
 <script>
 import service from '@/services/appservices'
